@@ -1,0 +1,263 @@
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\desktop\Desktop2\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmWhatsapp.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddFamiliarAccount.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddMessage.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdvanced.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilter.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLicense.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGrabber.resources
+C:\Users\khillo_baz\OneDrive\tosell\Bulkwhatsappsender2.1\BulkWhatsappSender\bin\Debug\WebDriver\MicrosoftWebDriver.exe
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccounts.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccountSwticher.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddFamiliarAccount.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddMessage.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdvanced.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilter.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGrabber.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupsSender.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLicense.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualFilterImport.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSetCaption.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\WebDriver\MicrosoftWebDriver.exe
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\bws3.4\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver\MicrosoftWebDriver.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccounts.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccountSwticher.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddFamiliarAccount.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddMessage.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdvanced.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmEndBulk.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilter.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGrabber.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupsSender.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLanguage.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLicense.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualFilterImport.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmTheme.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSetCaption.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender4.0\BulkWhatsAppSender4.0\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver\MicrosoftWebDriver.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccounts.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccountSwticher.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddFamiliarAccount.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddMessage.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdvanced.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmEndBulk.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilter.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGrabber.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupKeyword.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupsSender.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLanguage.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLicense.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLogging.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLogin.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualFilterImport.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSpintax.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmTheme.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSetCaption.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+C:\Users\khillo_baz\Desktop\BulkWhatsAppSender5\BulkWhatsAppSender5\BulkWhatsAppSender5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver\MicrosoftWebDriver.exe
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.manifest
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.application
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojAssemblyReference.cache
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAbout.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccounts.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAccountSwticher.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdd.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddFamiliarAccount.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAddMessage.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmAdvanced.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmEndBulk.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilessmaplesPreview.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmFilter.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGrabber.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupKeyword.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmGroupsSender.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLanguage.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLicense.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLogging.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmLogin.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualFilterImport.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSpintax.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmTheme.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMustKnow.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmNumberGenerator.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSplash.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmSetCaption.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.cache
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.CoreCompileInputs.cache
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe.manifest
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.application
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.CopyComplete
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+D:\Project Deni\BulkWhatsAppSender5.5\SourceCode\BulkWhatsAppSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb

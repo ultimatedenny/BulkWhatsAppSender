@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BulkWhatsappSender.exe" version="1.0.0.0" publicKeyToken="78f9d89c656bea7c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BulkWhatsappSender" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BulkWhatsappSender.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BulkWhatsappSender.exe" size="289280">
+      <assemblyIdentity name="BulkWhatsappSender" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HdX4hw9CdaU1rpgXGM2eL7/IFmhPTCjl7CI+N5N+LN0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="1782272">
+      <assemblyIdentity name="WebDriver" version="3.14.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>O8pk9wBNhTGOxPBFlsIxeZHl+CAD+gba3ylT5GouxSM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BulkWhatsappSender.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OMhRAh4uut4hrVhzGjwgfkCZyMb10W7LhRCv0rQ5cBo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="BulkWhatsappSender.pdb" size="144896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VvNhZD2r1MddSWrXdKj3OTU3L05IsfWMe+lQsd1OeT8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="BulkWhatsappSender.xml" size="1413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ujwRBY2LagutA5OMkLxMvJxOdW4HP1RI7ot/DNzqZAI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icon.ico" size="26238">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DAVO9tngzDeZlMcgAZVIX2hNypuSK0ydUHQs0mPdTDw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WebDriver.xml" size="663942">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8X5uq7qwvDeyeyJtnnX2Uq02HhvjytN/iqm5ueT7Clo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="whatsappbulksender.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eKayJJAPwOH+bIrFOkqRW+otmxr8rvO0KKTlxv7QHkE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-JJP2NI2\khillo_baz" issuerKeyHash="dd0b4c39f668815cc27297d8f710e94a75c5d0b1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JUdqLtEmgtpoToalj7C8sibdZU6dA95DwiqddkDBWKA=</DigestValue></Reference></SignedInfo><SignatureValue>mL62Rh6UV4VhqJOKYNzvzSjlTUlQypMOPkJ1d1MEZrQ3dBtGjMSOB5giQanB9/wNKpPixadDZkYj6CyqzoRDcXR7LXNRwWuHM5xcyOssB23yW+a8lq2gc9vbhoEcXj9jl5YkGIaRFu1ZDo+hNxBbdzrevrE54FnYdxaPHGvSVnY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zdz4flwq9bZp7wUct+X3NSBYtFN3UgOrpNyWlpLVzc86LPyRibfonA9Wczvw3pPU1RAg9FkWc0gqSt5J8yizfzLiCPyuy8+z3i/xxg9VAwc7bw0RNdl4+xeJd0zNeXXcQqP4kFwIe3iNaed8GO56gbGCYKcGuLsrjwFyNszteDU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a058c140769d2ac243de039d4e65dd26b2bcb08fa5864e68da8226d12e6a4725" Description="" Url=""><as:assemblyIdentity name="BulkWhatsappSender.exe" version="1.0.0.0" publicKeyToken="78f9d89c656bea7c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-JJP2NI2\khillo_baz</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5sPizWzd0Qwi//Ujn2TYn7NyTjca4abxQKvETqB9ZVM=</DigestValue></Reference></SignedInfo><SignatureValue>fySmKEFM4ZmpzJujc3WtQ8uZ2RStdV+dCIHfM3PsVKvN9XC1VmkM0Cs8nfYVuzeK+6NP9nxT7Y0ijdhqQZ7DgxllUggK31cci3/n1zZaYaPHbz5xegqgF7Jz+Rf8G7SoY7BREp3tPkODoae3Nrwt/QaKxgMM73CzoUHOYdjGOW0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zdz4flwq9bZp7wUct+X3NSBYtFN3UgOrpNyWlpLVzc86LPyRibfonA9Wczvw3pPU1RAg9FkWc0gqSt5J8yizfzLiCPyuy8+z3i/xxg9VAwc7bw0RNdl4+xeJd0zNeXXcQqP4kFwIe3iNaed8GO56gbGCYKcGuLsrjwFyNszteDU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQFRrk95SRXblD+KFjr9gLcDANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQARABFAFMASwBUAE8AUAAtAEoASgBQADIATgBJADIAXABrAGgAaQBsAGwAbwBfAGIAYQB6MB4XDTE4MTAxNDE4MjY1MloXDTE5MTAxNTAwMjY1MlowPzE9MDsGA1UEAx40AEQARQBTAEsAVABPAFAALQBKAEoAUAAyAE4ASQAyAFwAawBoAGkAbABsAG8AXwBiAGEAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzdz4flwq9bZp7wUct+X3NSBYtFN3UgOrpNyWlpLVzc86LPyRibfonA9Wczvw3pPU1RAg9FkWc0gqSt5J8yizfzLiCPyuy8+z3i/xxg9VAwc7bw0RNdl4+xeJd0zNeXXcQqP4kFwIe3iNaed8GO56gbGCYKcGuLsrjwFyNszteDUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAF6Jh/8mKYMN7k65G1CL8OQKcbZqQxGa/gM4fFSHxtgJtzbUrIIEpBOXSUid+2qBVHMYZ8DwhiFb5EnZmw4QsQHkRZnzEHlJQ+bGp3wJlhMQHt7aC1Uo9TzYCJU26A3XDUDUmQIM9+/EkdiDFHqU7fbucLJbDgAme+dT29HgT2NQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

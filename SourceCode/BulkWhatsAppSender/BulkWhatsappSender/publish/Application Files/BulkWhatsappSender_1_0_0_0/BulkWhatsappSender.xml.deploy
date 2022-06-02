@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BulkWhatsappSender
+</name>
+</assembly>
+<members>
+<member name="T:BulkWhatsappSender.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BulkWhatsappSender.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BulkWhatsappSender.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BulkWhatsappSender.My.Resources.Resources.JavaScriptInject">
+<summary>
+  Looks up a localized string similar to (function() { // Copyright (c) 2012 The Chromium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+/**
+ * Enum for WebDriver status codes.
+ * @enum {number}
+ */
+var StatusCode = {
+  STALE_ELEMENT_REFERENCE: 10,
+  UNKNOWN_ERROR: 13,
+};
+
+/**
+ * Enum for node types.
+ * @enum {number}
+ */
+var NodeType = {
+  ELEMENT: 1,
+  DOCUMENT: 9,
+};
+
+/**
+ * Dictionary key to use for holding an element ID.
+ * @const
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
